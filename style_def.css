@@ -2,7 +2,7 @@ body {
     font-family: "SFMono", Consolas, monospace;
 }.headBar{
     text-align: justify;
-    max-height: min-content;
+    max-height: 200px;
 }.logomns{
     size: 0 0 193 26;
 }

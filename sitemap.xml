@@ -2,14 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://webpagesvc.misakanetworksystem.org/</loc>
-         <lastmod>2025-01-11</lastmod>
+         <lastmod>2025-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://webpagesvc.misakanetworksystem.org/Amigos/Here%20We%20Are/</loc>
+         <lastmod>2025-01-17</lastmod>
     </url>
     <url>
          <loc>https://webpagesvc.misakanetworksystem.org/blog/</loc>
-         <lastmod>2025-01-11</lastmod>
+         <lastmod>2025-01-17</lastmod>
     </url>
     <url>
-         <loc>https://webpagesvc.misakanetworksystem.org/blog/posts/My%20First%20Blog/</loc>
-         <lastmod>2025-01-11</lastmod>
+         <loc>https://webpagesvc.misakanetworksystem.org/blog/2025/01/11/my-first-blog/</loc>
+         <lastmod>2025-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://webpagesvc.misakanetworksystem.org/blog/archive/2025/</loc>
+         <lastmod>2025-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://webpagesvc.misakanetworksystem.org/blog/category/blog/</loc>
+         <lastmod>2025-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://webpagesvc.misakanetworksystem.org/blog/category/desription/</loc>
+         <lastmod>2025-01-17</lastmod>
     </url>
 </urlset>
